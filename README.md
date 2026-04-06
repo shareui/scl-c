@@ -30,8 +30,8 @@ db: struct {
 
 ## Docs
 
-- [Language reference]()
-- [C ABI reference]()
+- [Language reference](https://github.com/shareui/scl-c/blob/main/docs/scl-lang.md)
+- [C ABI reference](https://github.com/shareui/scl-c/blob/main/docs/scl-abi.md)
 
 ## Building
 
