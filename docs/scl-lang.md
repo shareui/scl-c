@@ -286,12 +286,3 @@ Every error includes: file position, field name when applicable, a description, 
 |---|---|
 | `.scl` | Standard SCL document |
 | `.scls` | Schema-only file — type definitions and annotations, no values |
-
----
-
-## Non-goals
-
-SCL is not a programming language — no loops, functions, or conditionals.  
-SCL is not a query language.  
-SCL is not a binary format — use Protobuf or BARE for that.  
-SCL is not a full schema language — for complex contracts, use Protobuf or JSON Schema.
