@@ -28,6 +28,10 @@ db: struct {
 - One syntax, one parse result
 - Zero runtime dependencies in the core library
 
+## APIs
+
+- [Python](https://github.com/shareui/scl)
+
 ## Docs
 
 - [Language reference](https://github.com/shareui/scl-c/blob/main/docs/scl-lang.md)
